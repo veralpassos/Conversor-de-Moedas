@@ -3,7 +3,7 @@ const currencySelect = document.querySelector(".currency-select");
 
 function convertValues() {
   const inputCurrencyValue = document.querySelector(".input-currency").value;
-
+//comentario
   const currencyValueToConvert = document.querySelector(
     ".currency-value-to-convert"
   );
